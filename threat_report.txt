@@ -1,0 +1,11 @@
+CYBER THREAT DETECTION SYSTEM
+====================================
+Total logs analysed: 11
+
+Username        Failed     Success    Risk       Level       
+student01       5          0          100        Critical    
+admin           3          0          80         Critical    
+student03       1          1          20         Low         
+student02       0          1          0          Low         
+
+Risk scores are rule-based indicators, not proof of attacks.
